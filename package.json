@@ -1,0 +1,10 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "any",
+  "main": "index.ts",
+  "scripts": {},
+  "repository": "git@github.com:yazaldefilimonepinto/design-patterns.git",
+  "author": "yazalde filimone <yazaldefilimon@gmail.com>",
+  "license": "MIT"
+}
