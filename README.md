@@ -6,7 +6,7 @@
   <img alt="Languages" src="https://img.shields.io/github/languages/count/yazaldefilimonepinto/design-patterns?color=FFFFFF&labelColor=110C2F">
 </p>
 
-***Design patterns*** are typical solutions to common problems
+**Design patterns** are typical solutions to common problems
 in software design. Each pattern is like a blueprint
 that you can customize to solve a particular
 design problem in your code.
