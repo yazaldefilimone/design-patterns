@@ -16,13 +16,13 @@ The folders are organized with the design patterns categories according to the G
 Each folder contains a README detailing the category itself and the design patterns present in it.
 
 Each design pattern is inside a folder with its name. There is a README describing the pattern, one or more diagrams and code snippets for example implementation.
-## Technology
+### Technology
 - [NodeJs](https://reactjs.org/)
 - [TypeScript](https://nextjs.org/)
 
 
 
-## Content
+### Content
 - [ ] **Creation**
   - [ ] Abstract Factory
   - [ ] Factory Method
@@ -52,8 +52,6 @@ Each design pattern is inside a folder with its name. There is a README describi
 
 <a id="license"></a>
 
-## License
+### License
 
-[MIT](https://github.com/yazaldefilimonepinto/design-patterns/blob/main/LICENSE) Project License
-
-Creator with 💙 by [Yazalde Filimone](https://www.linkedin.com/in/yazalde-filimone/)
+[MIT](https://github.com/yazaldefilimonepinto/design-patterns/blob/main/LICENSE) © [Yazalde Filimone](https://www.linkedin.com/in/yazalde-filimone/)
