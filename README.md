@@ -11,6 +11,11 @@ in software design. Each pattern is like a blueprint
 that you can customize to solve a particular
 design problem in your code.
 
+The folders are organized with the design patterns categories according to the GoF book. They are behavioral (behavioral), creational (creational) and structural (structural).
+
+Each folder contains a README detailing the category itself and the design patterns present in it.
+
+Each design pattern is inside a folder with its name. There is a README describing the pattern, one or more diagrams and code snippets for example implementation.
 ## Technology
 - [NodeJs](https://reactjs.org/)
 - [TypeScript](https://nextjs.org/)
