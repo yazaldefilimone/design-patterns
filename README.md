@@ -20,8 +20,35 @@ Each design pattern is inside a folder with its name. There is a README describi
 - [NodeJs](https://reactjs.org/)
 - [TypeScript](https://nextjs.org/)
 
-## Methodology
-- [Design Patterns](https://refactoring.guru/design-patterns)
+
+
+## Content
+- [ ] **Creation**
+  - [ ] Abstract Factory
+  - [ ] Factory Method
+  - [ ] Builder
+  - [ ] Prototype
+  - [ ] Singleton
+- [ ] **Structural**
+  - [ ] Adapter
+  - [ ] Bridge
+  - [ ] Composite
+  - [ ] Decorator 
+  - [ ] Facade
+  - [ ] Flyweight
+  - [ ] Proxy
+- [ ] **Behavioral**
+  - [ ] Interpreter
+  - [ ] Templete Method
+  - [ ] Chain of Responsibility
+  - [ ] Iterator
+  - [ ] Command
+  - [ ] Mediator
+  - [ ] Memento
+  - [ ] Observer
+  - [ ] State
+  - [ ] Strategy
+  - [ ] Visitor
 
 <a id="license"></a>
 
