@@ -6,7 +6,22 @@
   <img alt="Languages" src="https://img.shields.io/github/languages/count/yazaldefilimonepinto/design-patterns?color=FFFFFF&labelColor=110C2F">
 </p>
 
-**Behavioral design patterns (Behavioral)**
+### To-do
+- [ ] **Behavioral**
+  - [ ] Interpreter
+  - [ ] Templete Method
+  - [ ] Chain of Responsibility
+  - [ ] Iterator
+  - [ ] Command
+  - [ ] Mediator
+  - [ ] Memento
+  - [ ] Observer
+  - [ ] State
+  - [ ] Strategy
+  - [ ] Visitor
+
+### Behavioral design patterns (Behavioral)
+
 **Behavioral design patterns** are concerned with algorithms and the assignment of responsibilities between objects. **Behavioral patterns** do not just describe patterns of objects or classes, but also the patterns of communication between them. These patterns characterize control flows that are difficult to follow at runtime. They take the focus away from the flow of control to allow you to focus solely on the way objects are interconnected.
 
 standards and intentions
@@ -22,24 +37,6 @@ The original **GoF behavioral design patterns** are:
 - **Strategy** - Defines a family of algorithms, encapsulating each one and making them interchangeable. The strategy allows the algorithm to vary independently of the clients that use it.
 - **Template method** - defines the skeleton of an algorithm in one operation, deferring the definition of some steps to subclasses. The template method allows subclasses to redefine certain steps of an algorithm without changing its structure.
 - **Visitor** - represents an operation to be performed on the elements of an object's structure. The visitor allows you to define a new operation without changing the classes of the elements it operates on.
-
-### Technology
-- [NodeJs](https://reactjs.org/)
-- [TypeScript](https://nextjs.org/)
-
-### To-do
-- [ ] **Behavioral**
-  - [ ] Interpreter
-  - [ ] Templete Method
-  - [ ] Chain of Responsibility
-  - [ ] Iterator
-  - [ ] Command
-  - [ ] Mediator
-  - [ ] Memento
-  - [ ] Observer
-  - [ ] State
-  - [ ] Strategy
-  - [ ] Visitor
 
 <a id="license"></a>
 

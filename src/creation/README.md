@@ -6,20 +6,6 @@
   <img alt="Languages" src="https://img.shields.io/github/languages/count/yazaldefilimonepinto/design-patterns?color=FFFFFF&labelColor=110C2F">
 </p>
 
-**Design patterns** are typical solutions to common problems
-in software design. Each pattern is like a blueprint
-that you can customize to solve a particular
-design problem in your code.
-
-The folders are organized with the design patterns categories according to the GoF book. They are behavioral (behavioral), creational (creational) and structural (structural).
-
-Each folder contains a README detailing the category itself and the design patterns present in it.
-
-Each design pattern is inside a folder with its name. There is a README describing the pattern, one or more diagrams and code snippets for example implementation.
-### Technology
-- [NodeJs](https://reactjs.org/)
-- [TypeScript](https://nextjs.org/)
-
 ### To-do 
 - [ ] **Creation**
   - [ ] Abstract Factory
@@ -27,6 +13,20 @@ Each design pattern is inside a folder with its name. There is a README describi
   - [ ] Builder
   - [ ] Prototype
   - [ ] Singleton
+
+### Creative design patterns
+**Creative design patterns** are patterns that abstract the object instantiation process. They help make a system independent of how its objects are represented, created, and composed. Generally, they achieve this goal by delegating tasks to other objects.
+
+These patterns give the system a lot of flexibility because they encapsulate knowledge about which concrete classes are used. In addition, they hide how instances are created and composed. The focus is to eliminate customer knowledge of **WHAT**, **HOW** and **WHEN** is being created and **WHO** is part of the creation process.
+
+standards and intentions
+**The original GoF creative design patterns are:**
+
+- **Abstract Factory** - Provide an interface for creating families of related or dependent objects without specifying their concrete classes;
+- **Builder** - Separate the construction of a complex object from its representation, so that the same construction process can create different representations;
+- **Factory Method** - Define an interface to create an object, but let subclasses decide which class to instantiate. The Factory Method allows a class to defer instantiation to subclasses;
+- **Prototype** - Specify the types of objects to be created using a prototype instance and create new objects by copying this prototype;
+- **Singleton** - Ensuring that a class has only one instance and providing a global access point for it.
 
 <a id="license"></a>
 
