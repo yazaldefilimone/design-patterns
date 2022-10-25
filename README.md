@@ -11,7 +11,7 @@ in software design. Each pattern is like a blueprint
 that you can customize to solve a particular
 design problem in your code.
 
-The folders are organized with the design patterns categories according to the GoF book. They are behavioral (behavioral), creational (creational) and structural (structural).
+The folders are organized with the design patterns categories according to the [GoF - Design Patterns Elements Reusable Object Oriented](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) book. They are behavioral (behavioral), creational (creational) and structural (structural).
 
 Each folder contains a README detailing the category itself and the design patterns present in it.
 
