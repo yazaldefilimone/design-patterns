@@ -3,8 +3,32 @@
   "version": "1.0.0",
   "description": "any",
   "main": "index.ts",
-  "scripts": {},
   "repository": "git@github.com:yazaldefilimonepinto/design-patterns.git",
   "author": "yazalde filimone <yazaldefilimon@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "clean architecture",
+    "clean code",
+    "tdd",
+    "ddd",
+    "solid",
+    "design patterns",
+    "node",
+    "typescript",
+    "jest",
+    "prisma"
+  ],
+  "scripts": {
+    "format": "prettier --ignore-path .gitignore \"src/**/*.+(ts|js)\" --write",
+    "clean": "rimraf dist",
+    "lint": "tslint -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.3",
+    "prettier": "^2.7.1",
+    "ts-node": "^10.9.1",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "*"
+  }
 }
