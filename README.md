@@ -16,24 +16,25 @@ The folders are organized with the design patterns categories according to the [
 Each folder contains a README detailing the category itself and the design patterns present in it.
 
 Each design pattern is inside a folder with its name. There is a README describing the pattern, one or more diagrams and code snippets for example implementation.
+
 ### Technology
+
 - [NodeJs](https://reactjs.org/)
 - [TypeScript](https://nextjs.org/)
 
-
-
 ### Content
+
 - [ ] **Creation**
   - [ ] Abstract Factory
   - [ ] Factory Method
   - [ ] Builder
   - [ ] Prototype
-  - [ ] Singleton
+  - [x] Singleton
 - [ ] **Structural**
   - [ ] Adapter
   - [ ] Bridge
   - [ ] Composite
-  - [ ] Decorator 
+  - [ ] Decorator
   - [ ] Facade
   - [ ] Flyweight
   - [ ] Proxy

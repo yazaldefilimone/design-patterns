@@ -6,15 +6,17 @@
   <img alt="Languages" src="https://img.shields.io/github/languages/count/yazaldefilimonepinto/design-patterns?color=FFFFFF&labelColor=110C2F">
 </p>
 
-### To-do 
+### To-do
+
 - [ ] **Creation**
   - [ ] Abstract Factory
   - [ ] Factory Method
   - [ ] Builder
   - [ ] Prototype
-  - [ ] Singleton
+  - [x] Singleton
 
 ### Creative design patterns
+
 **Creative design patterns** are patterns that abstract the object instantiation process. They help make a system independent of how its objects are represented, created, and composed. Generally, they achieve this goal by delegating tasks to other objects.
 
 These patterns give the system a lot of flexibility because they encapsulate knowledge about which concrete classes are used. In addition, they hide how instances are created and composed. The focus is to eliminate customer knowledge of **WHAT**, **HOW** and **WHEN** is being created and **WHO** is part of the creation process.
